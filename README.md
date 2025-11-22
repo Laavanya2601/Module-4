@@ -1,3 +1,7 @@
+
+<img width="1410" height="384" alt="Screenshot 2025-11-22 233446" src="https://github.com/user-attachments/assets/8adccd3e-acd5-4006-b9d0-5c66ab8bdb4f" />
+
+
 # EX:4 Classes and Objects in Python: Calculate the Area of a Circle
 
 ##  Aim
